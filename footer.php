@@ -2,8 +2,8 @@
 	</div>
 </div>
 <footer class="footer">
-	<p>Copyright © 2015-2016 <a class="down-a" href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>&nbsp;|&nbsp;<a class="down-a" target="_blank" href="http://www.miitbeian.gov.cn/">陇ICP备15000332号</a></p>
-	<p>Powered by <a class="down-a" target="_blank" href="http://typecho.org">Typecho</a>,Themes <a class="down-a" target="_blank" href="http://weic96.cn">WBNT-Typecho</a>.</p>
+	<p>Copyright © 2015-2016 <a class="down-a" href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>&nbsp;|&nbsp;<a class="down-a" target="_blank" href="http://www.miitbeian.gov.cn/">京ICP备12345678号</a></p>
+	<p>Powered by <a class="down-a" target="_blank" href="http://typecho.org">Typecho</a>,Themes <a class="down-a" target="_blank" href="http://weic.me/themes-wbnt/">WBNT-Typecho</a>.</p>
 </footer>
 <?php $this->footer(); ?>
 	<script src="<?php $this->options->themeUrl('js/jquery-2.2.4.min.js'); ?>"></script>
